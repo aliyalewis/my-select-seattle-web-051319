@@ -4,5 +4,5 @@ def my_select(collection)
  while i < collection.length
    new_array << collection[i]
    i += 1
- collection
+   new_array
 end
